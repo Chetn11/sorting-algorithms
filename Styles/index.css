@@ -1,0 +1,15 @@
+#container{
+    height: 50px;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+    margin-top: 450px;
+    gap: 5px;
+    padding: 50px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
