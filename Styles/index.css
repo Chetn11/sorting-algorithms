@@ -7,7 +7,25 @@
     gap: 5px;
     padding: 50px;
 }
+#container2{
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+    margin-top: -40px;
+    gap: 5px;
+}
+#nav{
+    margin: 0%;
+    padding: 0%;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    background-color: #8cc84b;
+    width: 100%;
+}
+#nav h1{
+    color: yellow;
+    margin-left: 100px;
 
+}
 body{
     display: flex;
     align-items: center;
